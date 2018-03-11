@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的主页！
 
-You can use the [editor on GitHub](https://github.com/mmmxxxy/xyma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+xyma目前就读于南京大学工程管理学院，您可以使用此链接访问我的学校[Nanjing University](https://www.nju.edu.cn)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 最喜欢的歌手--Jay Chou
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<object width="330" height="450" data="http://music.163.com/style/swf/widget.swf?
+sid=108250019&type=0&auto=0&width=310&height=430" 
+type="application/x-shockwave-flash"></object>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 喜欢的一首诗
 
-- Bulleted
-- List
+###可遇不可求的事
+               ---冯唐
+   后海有树的院子
+   夏代有工的玉
+   此时此刻的云
+   二十来岁的你
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmmxxxy/xyma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
